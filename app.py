@@ -7,4 +7,3 @@ while a != -1:
     a = int(input("enter number:"))
 
 print(f"Average : {sum / count} | sum : {sum} | count : {count}")
-#first edition
