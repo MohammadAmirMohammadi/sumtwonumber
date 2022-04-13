@@ -1,8 +1,8 @@
 a = int(input("enter number:"))
 count = 0
-sum = a
+sum = 0
 while a != -1:
-    sum += sum
+    sum += a
     count += 1
     a = int(input("enter number:"))
 
